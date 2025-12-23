@@ -1,0 +1,2 @@
+image_format = ["iso", "raw", "qcow2"]
+packages = ["qemu-guest-agent", "cloud-init", "google-guest-agent"]
