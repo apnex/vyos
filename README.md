@@ -41,7 +41,7 @@ exit
 ```
 
 *NOTE:*  
-This is a long running compile process and will take 10-15 minutes to complete.
+This is a long running compile process and will take 10-15 minutes to complete.  
 Final images will be located in `vyos-build/build/`  
 
 #### loopback errors
